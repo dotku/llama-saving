@@ -1,5 +1,6 @@
 # llama-saving
-A finance management advisor
+
+不懂理财的软件工程师不是好的创业者。
 
 ## Finance Tool
 
