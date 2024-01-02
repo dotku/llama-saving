@@ -13,3 +13,7 @@ A finance management advisor
     Upgrade 一家美国的在线银行，成立于 2016 年，提供个人借贷服务，近年也提供高利息账户服务，高达 5.07%，通过以下链接注册获得高达 $200 的现金奖励。
     * $200 [https://upgrade.com/r/03Sz1QaHga](https://upgrade.com/r/03Sz1QaHga)
     * $200 [https://upgrade.com/r/WLExkMczo9](https://upgrade.com/r/WLExkMczo9)
+
+## Books
+
+<a href="https://amzn.to/47lr4ze">![Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!](https://m.media-amazon.com/images/I/51u8ZRDCVoL._SY445_SX342_.jpg)</a>
