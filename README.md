@@ -16,9 +16,5 @@ A finance management advisor
 
 ## Books
 
-<a href="https://amzn.to/47lr4ze">![Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!](https://m.media-amazon.com/images/I/51u8ZRDCVoL._SY445_SX342_.jpg)</a>
-
-<a href="https://amzn.to/41HE7d8">![The Psychology of Money: Timeless lessons on wealth, greed, and happiness ](https://m.media-amazon.com/images/I/41E+2EfN3NL._SY445_SX342_.jpg)</a>
-
-<a href="https://amzn.to/3vjtlhb">![The Psychology of Money: Timeless lessons on wealth, greed, and happiness ](https://m.media-amazon.com/images/I/71S5bpl+IbL._SY522_.jpg)</a>
+<a href="https://amzn.to/47lr4ze">![Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!](https://m.media-amazon.com/images/I/51u8ZRDCVoL._SY445_SX342_.jpg)</a> <a href="https://amzn.to/41HE7d8">![The Psychology of Money: Timeless lessons on wealth, greed, and happiness ](https://m.media-amazon.com/images/I/41E+2EfN3NL._SY445_SX342_.jpg)</a> <a href="https://amzn.to/3vjtlhb">![The Psychology of Money: Timeless lessons on wealth, greed, and happiness ](https://m.media-amazon.com/images/I/71S5bpl+IbL._SY522_.jpg)</a>
 
