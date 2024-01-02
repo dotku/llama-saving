@@ -17,7 +17,7 @@
 
 ## Books
 
-<p style="text-align: center;">
+<p style="text-align: center">
     <a href="https://amzn.to/47lr4ze"><img src="https://m.media-amazon.com/images/I/51u8ZRDCVoL._SY445_SX342_.jpg" alt="Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not" /></a> 
     <a href="https://amzn.to/41HE7d8"><img src="https://m.media-amazon.com/images/I/41E+2EfN3NL._SY445_SX342_.jpg" alt="The Psychology of Money: Timeless lessons on wealth, greed, and happiness" /></a> 
     <a href="https://amzn.to/3vjtlhb"><img src="https://m.media-amazon.com/images/I/71S5bpl+IbL._SY522_.jpg" alt="The 7 Habits on the Go: Timeless Wisdom for a Rapidly Changing World (Keys to Personal Success" height="445"/></a>
